@@ -4,6 +4,8 @@ Predict the fuel efficiency (Miles Per Gallon - MPG) of a car using Machine Lear
 
 This project uses the classic Automobile MPG dataset to train regression models capable of estimating a vehicle's fuel efficiency based on its technical specifications. After experimenting with multiple algorithms, a Random Forest Regressor was selected as the final model due to its superior predictive performance.
 
+**Live Demo:** https://car-mpg-predictor-5f98etudplelbj4rlkcgbj.streamlit.app/
+
 ---
 
 ## Features
